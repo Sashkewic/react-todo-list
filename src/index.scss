@@ -17,3 +17,13 @@ code {
 .navbar-brand {
   margin-left: 20px;
 }
+
+.note {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  strong {
+    margin-right: 1rem;
+  }
+}
